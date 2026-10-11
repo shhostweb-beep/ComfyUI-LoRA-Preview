@@ -11,6 +11,6 @@ dependencies = []
 Repository = "https://github.com/shhostweb-beep/ComfyUI-LoRA-Preview"
 
 [tool.comfy]
-PublisherId = "your-publisher-id"
+PublisherId = "starhostig"
 DisplayName = "LoRA Preview"
 Icon = ""
