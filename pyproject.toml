@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-lora-preview"
+version = "1.0.0"
+description = "LoRA loader nodes with preview images: a single LoRA loader and a Power-LoRA-Loader style multi-LoRA stack, with hover previews in the LoRA picker."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/shhostweb-beep/ComfyUI-LoRA-Preview"
+
+[tool.comfy]
+PublisherId = "your-publisher-id"
+DisplayName = "LoRA Preview"
+Icon = ""
